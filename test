@@ -1,0 +1,10 @@
+input
+store A
+input
+store B
+load A
+Add B
+
+
+A, DEC 0
+B, DEC 0
